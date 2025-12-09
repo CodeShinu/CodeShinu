@@ -1,6 +1,6 @@
 <!-- DARK MODE README -->
 
-<h1 align="center">🖤👨‍💻 Kauã | Developer in Progress</h1>
+<h1 align="center"> Kc | Developer in Progress</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=9A9A9A&size=24&center=true&vCenter=true&width=600&lines=Building+my+path+in+tech...;Front-End+%2B+Back-End+Developer;Always+learning.+Always+evolving." />
@@ -32,17 +32,6 @@ Gosto de aprender um pouco de tudo e transformar conhecimento em prática.
 - Código limpo  
 - Evolução diária  
 - Resolver problemas antes deles virarem problemas  
-
----
-
-## 📊 GitHub (Dark Mode)
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=KcLvd&show_icons=true&theme=tokyonight&count_private=true" />
-<br>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KcLvd&layout=compact&theme=tokyonight" />
-
-</div>
 
 ---
 
