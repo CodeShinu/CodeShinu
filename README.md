@@ -44,7 +44,7 @@ Database: SQL & NoSQL Mindset
 
 💼 LinkedIn: linkedin.com/in/kauã-carlos
 
-📸 Instagram: @kc_lvd
+📸 Instagram: https://www.instagram.com/devshinu_/
 
 📧 E-mail: [devkaua2006@email.com]
 
