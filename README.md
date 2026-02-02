@@ -42,9 +42,9 @@ Database: SQL & NoSQL Mindset
 
 🔗 VAMOS CONECTAR?
 
-💼 LinkedIn: linkedin.com/in/kauã-carlos
+💼 LinkedIn: [linkedin.com/in/kauã-carlos](https://www.linkedin.com/in/kau%C3%A3-carlos-2835422b6/)
 
-📸 Instagram: https://www.instagram.com/devshinu_/
+📸 Instagram: [https://www.instagram.com/devshinu_/](https://www.instagram.com/kc_lvd/)
 
 📧 E-mail: [devkaua2006@email.com]
 
