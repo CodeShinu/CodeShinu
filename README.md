@@ -1,68 +1,57 @@
-<!-- DARK MODE README -->
+<div align="center">
 
-<h1 align="center"> Kc | Developer in Progress</h1>
+⚡ Kauã Carlos (KC)
+
+Full-Stack Developer in Training | Problem Solver | Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9A9A9A&size=24&center=true&vCenter=true&width=600&lines=Building+my+path+in+tech...;Front-End+%2B+Back-End+Developer;Always+learning.+Always+evolving." />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU_USUARIO_AQUI%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D8B5CF6%26text_color%3D9A9A9A%26icon_color%3D8B5CF6" alt="Estatísticas do GitHub" height="150" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU_USUARIO_AQUI%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D8B5CF6%26text_color%3D9A9A9A" alt="Linguagens mais usadas" height="150" />
 </p>
 
----
+</div>
 
-## 🕶️ Sobre mim
-Sou o **Kauã**, um desenvolvedor em constante evolução — explorando códigos, criando projetos e buscando sempre o próximo nível.  
-Gosto de aprender um pouco de tudo e transformar conhecimento em prática.
+🕶️ Sobre mim
 
----
+Olá! Sou o Kauã, um desenvolvedor apaixonado por transformar lógica em realidade. Atualmente, foco em dominar o ecossistema Full-Stack, criando aplicações que unem design sofisticado e infraestrutura robusta.
 
-## ⚡ Tecnologias que já uso ou estou aprendendo
+🚀 Atualmente explorando C# e arquitetura de sistemas.
 
-### 🌐 **Front-End**
-- HTML  
-- CSS  
-- Java  
+🛠️ Foco em Clean Code e escalabilidade.
 
-### 🖥️ **Back-End**
-- Python  
-- C#  
+🎓 Estudante constante de novas tecnologias para resolver problemas reais de negócio.
 
----
+🛠️ Tech Stack
 
-## 🧩 Mindset
-- Aprendizado contínuo  
-- Código limpo  
-- Evolução diária  
-- Resolver problemas antes deles virarem problemas  
+🌐 Front-End & Design
 
----
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-050505%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3DE34F26" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-050505%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3D1572B6" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-050505%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E" />
 
-## 🧪 Tecnologias/Bages
-<div align="center">
+🖥️ Back-End & Logic
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![C%23](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-050505%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3D3776AB" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-050505%3Fstyle%3Dfor-the-badge%26logo%3Dcsharp%26logoColor%3D239120" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-050505%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite" />
+
+🧩 Mindset & Objetivos
+
+[x] Aprendizado Contínuo: Evolução diária é inegociável.
+
+[x] Product First: Desenvolver o que gera valor real para o usuário.
+
+[x] Colaboração: Aberto a projetos Open Source e parcerias inovadoras.
+
+🔗 Vamos nos conectar?
+
+<div align="left">
+
+💼 LinkedIn: Conecte-se comigo
+
+📸 Instagram: @kc_lvd
+
+📧 E-mail: [Seu Email Aqui]
 
 </div>
 
----
-
-## 🔗 Minhas Redes (Dark Mode)
 <div align="center">
-
-### 🌐 **LinkedIn**  
-🔗 [www.linkedin.com/in/kauã-carlos-2835422b6](https://www.linkedin.com/in/kauã-carlos-2835422b6)
-
-### 📸 **Instagram**  
-🔗 [@kc_lvd](https://instagram.com/kc_lvd)
-
-</div>
-
----
-
-<div align="center">
-  
-**"Keep coding. Keep evolving."**
-
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/mshuber1981/mshuber1981/master/assets/line-neon.gif" width="100%">
+<p><i>"A excelência não é um ato, mas um hábito."</i></p>
 </div>
