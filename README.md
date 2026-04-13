@@ -8,7 +8,7 @@ Foco em fundamentos • Evolução consistente • Prática constante
 
 </div>
 
-🕶️ SOBRE MIM
+SOBRE MIM
 
 Sou Kauã, estudante de desenvolvimento com interesse em aplicações Full-Stack. Estou construindo minha base em programação e desenvolvimento web, com foco em compreender bem os fundamentos e evoluir de forma consistente.
 
@@ -16,7 +16,7 @@ Atualmente, estudo lógica de programação, C# e tecnologias web, buscando apli
 
 ---
 
-🛠️ CONHECIMENTOS
+CONHECIMENTOS
 
 🌐 Front-end  
 HTML  
@@ -32,7 +32,7 @@ Noções de SQL
 
 ---
 
-🎯 OBJETIVOS
+OBJETIVOS
 
 - Consolidar fundamentos em desenvolvimento de software  
 - Desenvolver projetos para prática e aprendizado  
@@ -40,7 +40,7 @@ Noções de SQL
 
 ---
 
-🔗 CONTATO
+CONTATO
 
 💼 LinkedIn: https://www.linkedin.com/in/kauã-carlos  
 📸 Instagram: https://www.instagram.com/devshinu_/  
