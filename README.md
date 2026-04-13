@@ -1,56 +1,49 @@
 <div align="center">
 
-⚡ CodeShinu - KC
+ Shinu - KC
 
-FULL-STACK DEVELOPER | PROBLEM SOLVER | DESIGN ENTHUSIAST
+ESTUDANTE DE DESENVOLVIMENTO FULL-STACK
 
-Building the future line by line • Clean Code • Performance First
+Foco em fundamentos • Evolução consistente • Prática constante
 
 </div>
 
 🕶️ SOBRE MIM
 
-Olá! Sou o Kauã, um desenvolvedor focado em transformar lógica bruta em experiências digitais de alto impacto. Atualmente, dedico-me ao ecossistema Full-Stack, construindo soluções que equilibram estética minimalista com arquitetura robusta.
+Sou Kauã, estudante de desenvolvimento com interesse em aplicações Full-Stack. Estou construindo minha base em programação e desenvolvimento web, com foco em compreender bem os fundamentos e evoluir de forma consistente.
 
-🚀 Explorando: C# e Arquitetura de Sistemas Escalonáveis.
+Atualmente, estudo lógica de programação, C# e tecnologias web, buscando aplicar o conhecimento em projetos práticos.
 
-🛠️ Filosofia: Clean Code, escalabilidade e performance.
+---
 
-🎓 Foco: Aplicar tecnologia para resolver problemas reais de negócio.
+🛠️ CONHECIMENTOS
 
-🛠️ TECH STACK
+🌐 Front-end  
+HTML  
+CSS  
+JavaScript (básico)  
 
-🌐 FRONT-END & DESIGN
+🖥️ Back-end  
+C# (iniciante)  
+Python (básico)  
 
-Linguagens: HTML5 / CSS3 / JavaScript (ES6+)
+🗄️ Banco de dados  
+Noções de SQL  
 
-Design: UI/UX Design / Identidade Visual / Tipografia
+---
 
-🖥️ BACK-END & LOGIC
+🎯 OBJETIVOS
 
-Linguagens: Python / C# / Java / Node.js
+- Consolidar fundamentos em desenvolvimento de software  
+- Desenvolver projetos para prática e aprendizado  
+- Conquistar a primeira oportunidade na área  
 
-Database: SQL & NoSQL Mindset
+---
 
-🧩 MINDSET & OBJETIVOS
+🔗 CONTATO
 
-[x] Aprendizagem Contínua: A evolução diária é o meu único padrão.
-
-[x] Product First: Desenvolver o que gera valor real, não apenas código.
-
-[x] Colaboração: Aberto a parcerias estratégicas e projetos inovadores.
-
-🔗 VAMOS CONECTAR?
-
-💼 LinkedIn: [linkedin.com/in/kauã-carlos](https://www.linkedin.com/in/kau%C3%A3-carlos-2835422b6/)
-
-📸 Instagram: [https://www.instagram.com/devshinu_/](https://www.instagram.com/kc_lvd/)
-
-📧 E-mail: [devkaua2006@email.com]
-
-<div align="center">
-
-"A EXCELÊNCIA NÃO É UM ACTO, MAS UM HÁBITO."
-________________________________________________________________________________
+💼 LinkedIn: https://www.linkedin.com/in/kauã-carlos  
+📸 Instagram: https://www.instagram.com/devshinu_/  
+📧 E-mail: devkaua2006@email.com  
 
 </div>
