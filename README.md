@@ -1,49 +1,49 @@
 <div align="center">
 
- Shinu - KC
+Shinu - KC
 
-ESTUDANTE DE DESENVOLVIMENTO FULL-STACK
+FULL-STACK DEVELOPMENT STUDENT
 
-Foco em fundamentos • Evolução consistente • Prática constante
+Focus on fundamentals • Consistent growth • Continuous practice
 
 </div>
 
-SOBRE MIM
+ABOUT ME
 
-Sou Kauã, estudante de desenvolvimento com interesse em aplicações Full-Stack. Estou construindo minha base em programação e desenvolvimento web, com foco em compreender bem os fundamentos e evoluir de forma consistente.
+I’m Kauã, a development student with an interest in Full-Stack applications. I am building my foundation in programming and web development, focusing on understanding the fundamentals and growing consistently.
 
-Atualmente, estudo lógica de programação, C# e tecnologias web, buscando aplicar o conhecimento em projetos práticos.
+Currently, I study programming logic, C#, and web technologies, aiming to apply my knowledge through practical projects.
 
 ---
 
-CONHECIMENTOS
+SKILLS
 
 🌐 Front-end  
 HTML  
 CSS  
-JavaScript (básico)  
+JavaScript (basic)  
 
 🖥️ Back-end  
-C# (iniciante)  
-Python (básico)  
+C# (beginner)  
+Python (basic)  
 
-🗄️ Banco de dados  
-Noções de SQL  
-
----
-
-OBJETIVOS
-
-- Consolidar fundamentos em desenvolvimento de software  
-- Desenvolver projetos para prática e aprendizado  
-- Conquistar a primeira oportunidade na área  
+🗄️ Database  
+Basic SQL knowledge  
 
 ---
 
-CONTATO
+GOALS
+
+- Strengthen my software development fundamentals  
+- Build projects for practice and learning  
+- Land my first opportunity in the field  
+
+---
+
+CONTACT
 
 💼 LinkedIn: https://www.linkedin.com/in/kauã-carlos  
 📸 Instagram: https://www.instagram.com/devshinu_/  
-📧 E-mail: devkaua2006@email.com  
+📧 Email: devkaua2006@email.com  
 
 </div>
