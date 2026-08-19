@@ -47,7 +47,7 @@ No momento estou buscando minha primeira oportunidade de estágio em tecnologia,
 
 ### [`projetokc-api`](https://github.com/CodeShinu/projetokc-api)
 
-API REST que estou construindo com **Python + Flask** para estudar backend na prática.
+API REST que estou construindo com **Python + Flask + Termux** em um celular veio(Moto E6S) para estudar backend na prática.
 
 ```text
 GET   /             status da API
